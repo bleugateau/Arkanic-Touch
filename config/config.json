@@ -1,0 +1,85 @@
+{
+  "assetsUrl": "https://dofustouch.cdn.ankama.com/assets/2.30.2_wz4.KWaV0u85AyYU0G)5MTehG)0fo7MY",
+  "analytics": {
+    "ankAnalytics": {
+      "version": "1",
+      "debug": false,
+      "analog": false,
+      "useUrlMap": true
+    },
+    "wizAnalytics": {
+      "localytics": {
+        "token": "9f0bf865fd57d22f0bbea56-cd08f12a-8138-11e5-7c24-00736b041834",
+        "options": {
+          "sessionTimeoutSeconds": 60,
+          "namespace": "dofus-production"
+        }
+      }
+    }
+  },
+  "disabledFeatures": {
+    "shopByServerIdList": [
+      "411"
+    ]
+  },
+  "adjust": {
+    "appToken": "7j60imkfu60w",
+    "environment": "EnvironmentProduction"
+  },
+  "logging": {
+    "groups": false,
+    "logLevels": {
+      "time": 0,
+      "verbose": 0,
+      "debug": 1,
+      "info": 2,
+      "notice": 3,
+      "warning": 4,
+      "error": 5,
+      "critical": 6,
+      "alert": 7,
+      "emergency": 8
+    },
+    "config": {
+      "console": [
+        "none"
+      ],
+      "server": [
+        "error",
+        "critical",
+        "alert",
+        "emergency"
+      ]
+    },
+    "disableOverride": false
+  },
+  "dataUrl": "http://localhost:3000",
+  "haapi": {
+    "id": 18,
+    "url": "https://haapi.ankama.com/json/Ankama/v2",
+    "url": "http://localhost:3000/haapi",
+    "hostname": "ankama.com"
+  },
+  "serverLanguages": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "pt"
+  ],
+  "notification": {
+    "push": {
+      "appId": "BF3D5-267EA",
+      "projectId": "648328722813"
+    }
+  },
+  "recaptcha": {
+    "proxyUrl": "https://proxyconnection.touch.dofus.com",
+    "ankamaUrl": "https://account.ankama.com"
+  },
+  "failoverLanguage": "en",
+  "uiUrl": "https://proxyconnection.touch.dofus.com/assets",
+  "language": "fr",
+  "sessionId": "OwwC9AAnGhtRBeks"
+}
