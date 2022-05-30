@@ -1,5 +1,5 @@
 ## Arkanic (Proof of Concept)
-This is a reproduction of the game server of the mobile game Dofus Touch (Ankama) in NodeJs with ES6.
+This is an ugly reproduction of the game server of the mobile game Dofus Touch (Ankama) in NodeJs with ES6 (a lot of bad practice, that was my first ES6 app).
 Stars repos for more :heart:
 
 ![Arkanic Touch Emulator](https://i.gyazo.com/6304eb72c61cb358737ad8c6787a6fd7.png)
